@@ -8,6 +8,8 @@ A simple Python webscraper that scrapes the [Rithm School Blog](https://www.rith
 - Step 1: Clone this GitHub repository
   ```bash
   git clone https://github.com/NukeAce/rithmblog_webscraper.git
+  
+  cd rithmblog_webscraper
   ```
 
 - Step 2: Install *Beautiful Soup 4*   
