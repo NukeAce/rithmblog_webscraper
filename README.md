@@ -1,2 +1,21 @@
-# rithmblog_webscraper
-A webscraper that scrapes the rithmblog and saves the blog titles, times and urls to a csv file.
+# Rithm School Blog Webscraper
+A simple Python webscraper that scrapes the [Rithm School Blog](https://www.rithmschool.com/blog) and saves the blog titles, times and urls in a csv file.
+
+## Dependencies
+- [x] Beautiful Soup
+
+## Usage
+- Step 1: Clone scraper
+
+- Step 2: Install *Beautiful Soup 4*   
+  ```bash
+  pip install bs4
+  ```
+- Step2: Run the python file
+  ```bash
+  python3 blogscraper.py
+  ```
+- Step3: Check directory for *activities.csv* file
+
+
+***Note: Make sure to have Python 3 installed***
