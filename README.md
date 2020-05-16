@@ -5,7 +5,10 @@ A simple Python webscraper that scrapes the [Rithm School Blog](https://www.rith
 - [x] Beautiful Soup
 
 ## Usage
-- Step 1: Clone scraper
+- Step 1: Clone this GitHub repository
+  ```bash
+  git clone https://github.com/NukeAce/rithmblog_webscraper.git
+  ```
 
 - Step 2: Install *Beautiful Soup 4*   
   ```bash
